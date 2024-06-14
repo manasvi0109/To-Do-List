@@ -11,7 +11,7 @@ A simple Todo List application built using HTML, CSS, and JavaScript.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todo-list.git
+    git clone https://github.com/manasvi0109/To-Do-list.git
     ```
 2. Open `index.html` in your browser to see the application in action.
 
