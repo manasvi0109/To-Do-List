@@ -21,11 +21,5 @@ A simple Todo List application built using HTML, CSS, and JavaScript.
 3. Click on a task to mark it as completed.
 4. Click the "X" button next to a task to delete it.
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 
